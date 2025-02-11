@@ -3,7 +3,7 @@ vaidyanathan@iyer
 ——————
 OS: macOS Sequoia, android 14.0
 Uptime: 20 years
-Host: School of Engineering and Techology, Navrachana University #NUV
+Host: School of Engineering and Technology, Navrachana University #NUV
 Kernel: Computer Science + Mechatronics
 IDE: VSCode 1.97.0, Android Studio 2022.3.1, Xcode 16.0, Figma 124.7.4
 
